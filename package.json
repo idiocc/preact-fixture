@@ -1,6 +1,6 @@
 {
   "name": "@idio/preact-fixture",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "The Fixture To Test Loading Node_Modules From Front-End.",
   "main": "build",
   "module": "src/index.js",
